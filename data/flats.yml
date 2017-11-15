@@ -1,0 +1,21 @@
+marc:
+  name: "Marcs's home"
+  description: Full-equiped studio in Biarritz
+  city_name: "Biarritz, France"
+  city_slug: "biarritz"
+  wifi: false
+  rating: 4
+johnjohn:
+  name: "John John's home"
+  description: Palace in Canggu
+  city_name: "Canggu, Bali"
+  city_slug: "canguu"
+  wifi: true
+  rating: 3
+romain:
+  name: Romain's home
+  description: Nice flat in Waikiki
+  city_name: "Waikiki, Hawaii"
+  city_slug: "waikiki"
+  wifi: true
+  rating: 5
